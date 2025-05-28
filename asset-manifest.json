@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Vikamon/MeowPizza/static/css/main.d60aaabf.css",
-    "main.js": "/Vikamon/MeowPizza/static/js/main.cc6058f1.js",
-    "static/media/lapki.png": "/Vikamon/MeowPizza/static/media/lapki.55b421e4ea13a286c094.png",
-    "static/media/MeowPizza.png": "/Vikamon/MeowPizza/static/media/MeowPizza.445310c9b1196141d1e1.png",
-    "static/media/PhoneCar.png": "/Vikamon/MeowPizza/static/media/PhoneCar.48c2b3893693efe17f62.png",
-    "static/media/SunCar.png": "/Vikamon/MeowPizza/static/media/SunCar.1a77c2c63332667348b1.png",
-    "static/media/PizzaCar.png": "/Vikamon/MeowPizza/static/media/PizzaCar.f512b276863a00418a7a.png",
-    "index.html": "/Vikamon/MeowPizza/index.html",
-    "main.d60aaabf.css.map": "/Vikamon/MeowPizza/static/css/main.d60aaabf.css.map",
-    "main.cc6058f1.js.map": "/Vikamon/MeowPizza/static/js/main.cc6058f1.js.map"
+    "main.css": "/MeowPizza/static/css/main.6bcf8120.css",
+    "main.js": "/MeowPizza/static/js/main.a2bc01e1.js",
+    "static/media/lapki.png": "/MeowPizza/static/media/lapki.55b421e4ea13a286c094.png",
+    "static/media/MeowPizza.png": "/MeowPizza/static/media/MeowPizza.445310c9b1196141d1e1.png",
+    "static/media/PhoneCar.png": "/MeowPizza/static/media/PhoneCar.48c2b3893693efe17f62.png",
+    "static/media/SunCar.png": "/MeowPizza/static/media/SunCar.1a77c2c63332667348b1.png",
+    "static/media/PizzaCar.png": "/MeowPizza/static/media/PizzaCar.f512b276863a00418a7a.png",
+    "index.html": "/MeowPizza/index.html",
+    "main.6bcf8120.css.map": "/MeowPizza/static/css/main.6bcf8120.css.map",
+    "main.a2bc01e1.js.map": "/MeowPizza/static/js/main.a2bc01e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d60aaabf.css",
-    "static/js/main.cc6058f1.js"
+    "static/css/main.6bcf8120.css",
+    "static/js/main.a2bc01e1.js"
   ]
 }

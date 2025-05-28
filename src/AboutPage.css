@@ -1,0 +1,134 @@
+.about-page {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content-block {
+  display: flex;
+  align-items: center;
+  margin: 30px 0;
+  gap: 20px;
+}
+
+.content-block img {
+  max-width: 50%;
+  border-radius: 8px;
+}
+
+.about-page {
+  padding: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.about-page h1 {
+  text-align: center;
+  color: #ff5722;
+  font-size: 40px;
+  margin-bottom: 40px;
+
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.text-content {
+  flex: 1;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.text-content p {
+  margin-bottom: 20px;
+}
+
+.contact-details {
+  background-color: #fff8f0;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 25px;
+}
+
+.contact-details p {
+  margin-bottom: 15px;
+}
+
+.contact-details strong {
+  color: #ff5722;
+}
+
+.image-content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.contact-image {
+  max-width: 80%;
+  height: auto;
+  border-radius: 12px;
+
+}
+
+@media (max-width: 768px) {
+  .contact-info {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .text-content,
+  .image-content {
+    width: 100%;
+  }
+
+  .about-page h1 {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 992px) {
+  .contact-details {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-page {
+    padding: 20px;
+  }
+
+  .contact-details {
+    font-size: 18px;
+    padding: 15px;
+  }
+
+  .contact-info {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-details p {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+  .about-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+}
+.wallpapper {
+  background-image: url('lapki.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

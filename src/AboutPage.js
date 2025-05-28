@@ -21,7 +21,7 @@ const AboutPage = () => {
         </div>
         
         <div className="image-content">
-          <img src={love} alt="PhoneCat" className="contact-image"  width={300}/>
+          <img src={love} alt="Servant" className="contact-image"  width={300}/>
         </div>
         
       </div>
